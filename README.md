@@ -1,0 +1,2 @@
+# Sereno
+Sereno Stable Coin
